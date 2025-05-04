@@ -1,6 +1,6 @@
-# 👨🏽‍💻 Awe Olorunniyi Peter – Cybersecurity Analyst
+# 👨🏽‍💻 Olorunniyi Peter Awe– Cybersecurity Analyst
 
-Hi there! 👋 I'm *Awe Olorunniyi Peter*, a passionate and hands-on  Cybersecurity Analyst with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing, and I’m on a mission to make the digital world safer — one packet at a time.
+Hi there! 👋 I'm *Olorunniyi Peter Awe*, a passionate and hands-on  Cybersecurity Analyst with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing, and I’m on a mission to make the digital world safer — one packet at a time.
 
 ---
 
