@@ -10,7 +10,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 
 ### 🧪 Lab Environments
 - ✅ *Setting Up a Virtual Home Lab* (on macOS and Windows)
-- Active Directory Project
+- Active Directory Project [View Project](https://github.com/AwePeter/Active-Directory-Simulation-Cybernook-Solutions)
 - ☁️ *Cloud Home Lab Setup* (for scalable, remote testing)
 
 ### 🔍 Reconnaissance & Threat Analysis
