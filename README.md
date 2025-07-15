@@ -11,7 +11,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 ### 🧪 Lab Environments
 - ✅ *Setting Up a Virtual Home Lab* (on macOS and Windows)
 - Active Directory Project [View Project](https://github.com/AwePeter/Active-Directory-Simulation-Cybernook-Solutions)
-- ☁️ *Cloud Home Lab Setup* (for scalable, remote testing)
+- ☁️ *Cloud Home Lab Setup* (for scalable, remote testing)[Project Report](https://github.com/AwePeter/AWS-IAM-Cloud-Security-Project-Report/blob/main/AWS%20IAM%20Cloud%20Security%20Project%20Report.pdf)
 
 ### 🔍 Reconnaissance & Threat Analysis
 - 🌐 *Footprinting* – Passive and active info gathering
