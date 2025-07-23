@@ -34,7 +34,6 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 ### Offensive Security Simulations
 - **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
   
-
 ### 🔬 Malware & Exploit Analysis
 - 🧾 *Malicious PDF Analysis* – Dissecting payloads and embedded scripts
 - 🧟 *Malware Analysis* – Using tools like Ghidra and VirusTotal
