@@ -24,6 +24,17 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 - 🛡 *Suricata IDS Setup* – Intrusion detection using signature-based rules
 - 🧲 *Honeypot Deployment* – Detecting and analyzing attacker behavior
 
+### Threat Hunting & Framework Mapping
+- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
+
+### Social Engineering Defence
+- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
+- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
+
+### Offensive Security Simulations
+- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
+  
+
 ### 🔬 Malware & Exploit Analysis
 - 🧾 *Malicious PDF Analysis* – Dissecting payloads and embedded scripts
 - 🧟 *Malware Analysis* – Using tools like Ghidra and VirusTotal
@@ -48,10 +59,18 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 | Project | Description | Link |
 |--------|-------------|------|
 | virtual-home-lab | Setting up a local cyber lab on macOS/Windows | [View Repo](#) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | cloud-home-lab | Building a cloud-based home lab for cybersecurity practice | [View Repo](#) |
+| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | footprinting-techniques | Info gathering via open-source intelligence and active scanning | [View Repo](#) |
 | vulnerability-assessment | Scan and assess network vulnerabilities using security tools | [View Repo](#) |
 | phishing-email-analysis | Analyzing phishing emails and spotting key red flags | [View Repo](#) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 | wazuh-siem-lab | End-to-end guide for setting up Wazuh SIEM | [View Repo](#) |
 | elastic-siem-setup | Configuring Elastic Stack for threat hunting | [View Repo](#) |
 | suricata-ids-lab | Step-by-step IDS setup using Suricata
